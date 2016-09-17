@@ -12,3 +12,6 @@ Enjoy yourself.
 
 Juanillo
 ---
+
+## Lecture List
+* BT01 Intro, Notes & Assets
