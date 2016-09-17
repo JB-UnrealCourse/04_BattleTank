@@ -10,7 +10,5 @@ You're welcome to download, fork or do whatever else legal with all the files!
 
 Enjoy yourself.
 
-Ben Tristem
-
+Juanillo
 ---
-Click [here](https://www.udemy.com/unrealcourse?couponCode=GitHubDiscount) to find out more about the course, and how we build these assets step-by-step.
