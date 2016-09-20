@@ -16,4 +16,5 @@ Juanillo
 ## Lecture List
 * BT01 Intro, Notes & Assets
 * BT02 Game Design Document (GDD)
-* 
+* BT03 Montando el 'Repo' en GitHub
+
